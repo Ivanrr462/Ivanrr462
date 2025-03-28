@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning NodeJS and MongoDB<br>🎯 Goals: Be a Web Application Development</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NodeJS and MongoDB<br>🎯 Goals: Be a Web Application Development</p>
 
 ###
 
