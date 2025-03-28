@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/9deO00CY9Y4AAAAM/goku-black-griddy.gif"  />
+<img align="right" height="300" src="https://media.tenor.com/9deO00CY9Y4AAAAM/goku-black-griddy.gif"  />
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -41,4 +41,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
+###
 
+<h3 align="left">My socials media</h3>
+
+<div align="left">
+  <a href="ivan.rios1712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="in/ivan-rios-raya-a73515276" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
