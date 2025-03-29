@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="right" height="200" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"  />
+
+###
+
 <h1 align="left">Hello there 👋</h1>
 
 ###
@@ -14,10 +20,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="300" src="https://media.tenor.com/9deO00CY9Y4AAAAM/goku-black-griddy.gif"  />
 
 ###
 
