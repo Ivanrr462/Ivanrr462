@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Iván Ríos Raya and I'm a Web Application Development student, from Málaga, Spain</p>
+  <h3 align="center">My name is Iván Ríos Raya and I'm a Web Application Development student</h3>
 
 ###
 
