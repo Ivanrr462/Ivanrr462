@@ -1,10 +1,8 @@
 <br clear="both">
 
-<img align="right" height="110" width="300" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"  />
-
-###
-
-<h3 style="font-size: 200px; text-align: left;">Hello there 👋</h3>
+<div align="center">
+  <img height="180" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"  />
+</div>
 
 ###
 
