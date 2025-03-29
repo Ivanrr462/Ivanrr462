@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"  />
+<img align="right" height="110" width="300" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"  />
 
 ###
 
-<h1 align="left">Hello there 👋</h1>
+<h3 style="font-size: 200px; text-align: left;">Hello there 👋</h3>
 
 ###
 
@@ -51,7 +51,7 @@
   <a href="ivan.rios1712@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ivan-rios-raya-a73515276" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-rios-raya-a73515276" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
