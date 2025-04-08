@@ -44,7 +44,7 @@ I am a Web Application Development student and a Technician in Computer Network 
 
 ## <img  src="imagenes/gifsocial.gif" width ="30"><b> Social Media</b>
 <div align="left">
-  <a href="ivan.rios1712@gmail.com" target="_blank">
+  <a href="mailto:ivan.rios1712@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ivan-rios-raya-a73515276" target="_blank">
