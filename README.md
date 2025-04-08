@@ -42,7 +42,7 @@ I am a Web Application Developer student and also I'm a Technician in Administra
 <br>
 
 
-## Socials Media
+## Social Media
 <div align="left">
   <a href="ivan.rios1712@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
