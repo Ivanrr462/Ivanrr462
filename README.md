@@ -9,7 +9,7 @@
   <h1 align="center"><b>I'm Iván</b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 
 ## 💫 About Me
-I am a Web Application Developer student and also I'm a Technician in Administration of Computer Network Systems, seeking for internships to gain work experience.
+I am a Web Application Development student and a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NodeJS and MongoDB<br>🎯 Goals: To be a Web Application Development</p>
 <br>
 
