@@ -1,10 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="180" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"  />
-</div>
-
-###
 
   <h1 align="center"><b>Hi, I'm Iván</b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 
