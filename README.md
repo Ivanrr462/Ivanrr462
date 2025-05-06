@@ -20,10 +20,17 @@ I am a Web Application Development student and a Technician in Computer Network 
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
 </span>
 
-### 💻 Frontend Development
+### 🎨 Frontend Development
 <span>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
+</span>
+
+### ♾️ DevOps
+<span>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
 </span>
 
 ### 💾 Databases
@@ -32,6 +39,14 @@ I am a Web Application Development student and a Technician in Computer Network 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
 </span>
+
+### 💻 Operating Systems
+<span>
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+</span>
+
 <br>
 
 
