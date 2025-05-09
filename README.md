@@ -2,8 +2,8 @@
   <h1 align="center"><b>Hi, I'm Iván</b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 
 ## 💫 About Me
-I am a Web Application Development student and a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Generative AI<br>🎯 Goals: To be a Web Application Development</p>
+Web Application Development student and a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Generative AI<br>🎯 Goals: To be a Web Application Development</p>
 <br>
 
 ## 📊 GitHub Stats
