@@ -15,7 +15,6 @@ Web Application Development student and a Technician in Computer Network Systems
 
 ### 📋 Programming languages
 <span>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
 </span>
@@ -24,6 +23,7 @@ Web Application Development student and a Technician in Computer Network Systems
 <span>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
 </span>
 
 ### ♾️ DevOps
