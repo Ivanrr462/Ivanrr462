@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 Web Application Development student and a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Generative AI<br>🎯 Goals: To be a Web Application Development</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Node JS<br>🎯 Goals: To be a Web Application Development</p>
 <br>
 
 ## 📊 GitHub Stats
