@@ -15,16 +15,16 @@ Web Application Development student and a Technician in Computer Network Systems
 
 ### 📋 Programming languages
 <span>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Php-%23777BB4.svg?logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
 </span>
 
 ### 🎨 Frontend Development
 <span>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Astro-%232C2052.svg?logo=astro&logoColor=white">
 </span>
 
 ### ♾️ DevOps
@@ -32,12 +32,13 @@ Web Application Development student and a Technician in Computer Network Systems
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white"/>
 </span>
 
 ### 💾 Databases
 <span>
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/Mysql-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
 </span>
 
