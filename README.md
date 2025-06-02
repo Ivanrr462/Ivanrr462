@@ -32,6 +32,8 @@ Web Application Development student and a Technician in Computer Network Systems
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white">
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white"/>
 </span>
 
@@ -61,7 +63,6 @@ Web Application Development student and a Technician in Computer Network Systems
 <span>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
   <img alt="Libre Office" src="https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white">
-   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white">
 </span>
 
 <br>
