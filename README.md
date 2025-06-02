@@ -24,6 +24,7 @@ Web Application Development student and a Technician in Computer Network Systems
 <span>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?logo=astro&logoColor=white">
 </span>
 
 ### ♾️ DevOps
@@ -36,7 +37,7 @@ Web Application Development student and a Technician in Computer Network Systems
 ### 💾 Databases
 <span>
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
 </span>
 
@@ -51,25 +52,25 @@ Web Application Development student and a Technician in Computer Network Systems
 <span>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
+</span>
 </span>
 
 ### 🔎 Others
 <span>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
-  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white">
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white">
+  <img alt="Libre Office" src="https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white">
+   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white">
 </span>
 
 <br>
 
 
 ## <img  src="imagenes/gifsocial.gif" width ="30"><b> Social Media</b>
-<div align="left">
-  <a href="mailto:ivan.rios1712@gmail.com" target="_blank">
+  <a href="mailto:ivan.rios1712@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ivan-rios-raya-a73515276" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-rios-raya-a73515276">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
 
