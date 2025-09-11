@@ -2,8 +2,8 @@
   <h1 align="center"><b>Hi, I'm Iván</b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 
 ## 💫 About Me
-Web Application Development student and a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Node JS<br>🎯 Goals: To be a Web Application Development</p>
+Web Application Development student with a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Astro<br>🎯 Goals: To be a Web Application Development</p>
 <br>
 
 ## 📊 GitHub Stats
@@ -75,4 +75,5 @@ Web Application Development student and a Technician in Computer Network Systems
   <a href="https://www.linkedin.com/in/ivan-rios-raya-a73515276">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
 
