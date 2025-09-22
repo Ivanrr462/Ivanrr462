@@ -1,10 +1,11 @@
-
-  <h1 align="center"><b>Hi, I'm Iván</b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
+# 👨‍💻 Iván Ríos - Web Application Developer
 
 ## 💫 About Me
-Web Application Development student with a Technician in Computer Network Systems Administration, seeking internships to gain work experience.
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Astro<br>🎯 Goals: To be a Web Application Development</p>
-<br>
+Web Application Development student with a Technician in Computer Network Systems Administration, in constant learning, always exploring new technologies and better development practices.
+
+📍 **Ubicación:** Spain <br>
+🌐 **Portfolio:** [🚧In development🚧]  
+🎯 **Goals**: To be a Web Application Development
 
 ## 📊 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivanrr462&show_icons=true&theme=dark&locale=en&layout=compact" alt="Hisui02" />
@@ -67,13 +68,5 @@ Web Application Development student with a Technician in Computer Network System
 
 <br>
 
-
-## <img  src="imagenes/gifsocial.gif" width ="30"><b> Social Media</b>
-  <a href="mailto:ivan.rios1712@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-rios-raya-a73515276">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 
 
