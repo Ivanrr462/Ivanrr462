@@ -25,7 +25,6 @@ Web Application Development student with a Technician in Computer Network System
 <span>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Astro-%232C2052.svg?logo=astro&logoColor=white">
 </span>
 
 ### ♾️ DevOps
@@ -67,6 +66,7 @@ Web Application Development student with a Technician in Computer Network System
 </span>
 
 <br>
+
 
 
 
