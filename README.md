@@ -35,6 +35,7 @@ Web Application Development student with a Technician in Computer Network System
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white">
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
 </span>
 
 ### 💾 Databases
@@ -63,9 +64,11 @@ Web Application Development student with a Technician in Computer Network System
 <span>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
   <img alt="Libre Office" src="https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white">
 </span>
 
 <br>
+
 
 
 
