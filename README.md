@@ -19,6 +19,7 @@ Web Application Development student with a Technician in Computer Network System
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Php-%23777BB4.svg?logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
 </span>
 
 ### 🎨 Frontend Development
@@ -68,6 +69,7 @@ Web Application Development student with a Technician in Computer Network System
 </span>
 
 <br>
+
 
 
 
