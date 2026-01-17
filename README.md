@@ -7,10 +7,6 @@ Web Application Development student with a Technician in Computer Network System
 🌐 **Portfolio:** [🚧In development🚧]  
 🎯 **Goals**: To be a Web Application Development
 
-## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivanrr462&show_icons=true&theme=dark&locale=en&layout=compact" alt="Hisui02" />
-
-<br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b>
 
@@ -63,6 +59,7 @@ Web Application Development student with a Technician in Computer Network System
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </span>
+
 
 
 
