@@ -1,12 +1,13 @@
 # 👨‍💻 Iván Ríos - Web Application Developer
 
 ## 💫 About Me
-Web Application Development student with a Technician in Computer Network Systems Administration, in constant learning, always exploring new technologies and better development practices.
+Backend‑focused developer passionate about PHP and Laravel, currently studying Web Application Development. Strong foundation in Computer Network Systems Administration. Always learning, improving my skills and learning new technologies.
 
 📍 **Ubicación:** Spain <br>
 🌐 **Portfolio:** [🚧In development🚧]  
-🎯 **Goals**: To be a Web Application Development
+🎯 **Goals**: To be a BackEnd Developer
 
+---
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b>
 
@@ -14,12 +15,15 @@ Web Application Development student with a Technician in Computer Network System
 <span>
   <img src="https://img.shields.io/badge/Php-%23777BB4.svg?logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
 </span>
 
 ### 🎨 Frontend Development
 <span>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 </span>
 
 ### ♾️ DevOps
@@ -37,7 +41,7 @@ Web Application Development student with a Technician in Computer Network System
   <img alt="MySQL" src="https://img.shields.io/badge/Mysql-4479A1.svg?logo=mysql&logoColor=white">
 </span>
 
-### 🔎 Others
+### 🔎 Tools
 <span>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
@@ -46,6 +50,8 @@ Web Application Development student with a Technician in Computer Network System
 </span>
 
 <br>
+
+---
 
 ## <b>💽 Other Tech Skills</b>
 <span>
@@ -59,6 +65,17 @@ Web Application Development student with a Technician in Computer Network System
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </span>
+
+---
+
+## 📫 Conect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ivanriosdev)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rios1712@gmail.com)
+
+</div>
 
 
 
