@@ -3,7 +3,7 @@
 ## 💫 About Me
 Backend‑focused developer passionate about PHP and Laravel, currently studying Web Application Development. Strong foundation in Computer Network Systems Administration. Always learning, improving my skills and learning new technologies.
 
-📍 **Ubicación:** Spain <br>
+📍 **Location:** Spain <br>
 🌐 **Portfolio:** [🚧In development🚧]  
 🎯 **Goals**: To be a BackEnd Developer
 
@@ -76,6 +76,7 @@ Backend‑focused developer passionate about PHP and Laravel, currently studying
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rios1712@gmail.com)
 
 </div>
+
 
 
 
