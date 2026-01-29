@@ -71,11 +71,14 @@ Backend‑focused developer passionate about PHP and Laravel, currently studying
 ## 📫 Conect with me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ivanriosdev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rios1712@gmail.com)
-
+<a href="https://linkedin.com/in/ivanriosdev">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ivan.rios1712@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
 
 
 
